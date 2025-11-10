@@ -1,0 +1,20 @@
+# Virtual Environment
+.venv/
+
+# Python cache
+__pycache__/
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (optional, but good practice)
+*.csv
+*.data
+
+# Model files (optional, but good practice)
+*.h5
+*.keras
+*.pb
